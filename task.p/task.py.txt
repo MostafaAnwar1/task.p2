@@ -1,0 +1,3 @@
+
+1_Local Variables: Local variables are declared inside a function or a block of code. They are only accessible within the function or block in which they are defined. Once the function or block completes execution, the local variable is destroyed, and its memory space is freed.
+2_Global Variables: Global variables are declared outside of any function or block of code. They are accessible from any part of the program, including inside functions. Global variables retain their value throughout the lifetime of the program, unless explicitly modified.
